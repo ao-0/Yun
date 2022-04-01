@@ -4,7 +4,7 @@ local client_info = {}
 function client_info.ping_changed(callback)
 	task.spawn(function()
 		while wait() do
-			callback(tonumber(math.floor(tostring(game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString()):split(" ")[1]/5)))
+			callback(tonumber(math.floor(tostring(game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString()):split(" ")[1])))
 		end
 	end)
 end
