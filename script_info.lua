@@ -1,5 +1,5 @@
 local info = {
-  discord = "";
+  discord = "https://discord.gg/6bzwCeH6jV";
   status = "up";
   announcement = "";
   support_discord = {
