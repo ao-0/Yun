@@ -1,6 +1,6 @@
 local info = {
   discord = "https://discord.gg/6bzwCeH6jV";
-  status = "up";
+  status = "enabled";
   announcement = "";
   support_discord = {
     strucid = "xiba#5806";
