@@ -1,4 +1,4 @@
--- by xiba#5806 @ 4/2/2022
+-- by xiba#5806 @ 1/17/2022
 -- give credit please, idc if u use it i just dont like being discredited <3
 local watermark = {name = "watermark", accent = Color3.fromRGB(207, 89, 201), visible = true}
 local client_info = loadstring(game:HttpGet("https://raw.githubusercontent.com/ao-0/Yun/main/client_info.lua"))()
